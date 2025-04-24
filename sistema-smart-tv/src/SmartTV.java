@@ -1,8 +1,10 @@
 public class SmartTV {
+    // Atributos
     boolean ligada = false;
     int canal = 1;
     int volume = 25;
 
+    // Métodos
     public void ligar(){
         System.out.println("Ligando...");
         ligada = true;
