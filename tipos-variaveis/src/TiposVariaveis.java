@@ -1,6 +1,6 @@
 public class TiposVariaveis {
     public static void main(String[] args) {
-        // Tipos primitivos
+        // Tipos primitivos e exemplos
         byte idade = 123;
         short ano = 2021;
         int cep = 12345-678;
