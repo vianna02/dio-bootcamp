@@ -2,6 +2,7 @@ package rh;
 
 import java.util.Random;
 
+// Código de exemplo refatorado por mim.
 
 public class ProcessoSeletivo {
     static double salarioBase = 2000.0;
