@@ -8,7 +8,6 @@ public class ProcessoSeletivo {
     static String[] candidatosSelecionados = new String[5];
     static int count = 0;
 
-
     public static void selecionarCandidato(String candidato, double salarioPretendido) {
         if (salarioBase > salarioPretendido && count < 5) {
             candidatosSelecionados[count] = candidato;
