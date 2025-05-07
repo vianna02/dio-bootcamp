@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-// Executar pela IDE.
+// Executar pela IDE
 public class ContaBanco {
     public static void main(String[] args) {
         // Atributos
