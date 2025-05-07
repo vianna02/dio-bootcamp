@@ -1,5 +1,4 @@
 package rh;
-
 import java.util.Random;
 
 // Código de exemplo refatorado por mim.
