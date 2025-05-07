@@ -7,7 +7,6 @@ import java.util.Scanner;
 public class PetShop {
     public static void main(String[] args) {
         Lavadora lavadora = new Lavadora();
-
         Scanner sc = new Scanner(System.in);
         int option;
 

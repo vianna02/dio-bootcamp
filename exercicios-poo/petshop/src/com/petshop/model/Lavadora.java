@@ -1,5 +1,4 @@
 package com.petshop.model;
-
 import com.petshop.util.Requisito;
 
 public class Lavadora {

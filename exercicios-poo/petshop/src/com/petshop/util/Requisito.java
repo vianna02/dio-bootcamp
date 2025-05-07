@@ -1,5 +1,4 @@
 package com.petshop.util;
-
 public enum Requisito {
     PET_PRESENTE,
     PET_LIMPO,

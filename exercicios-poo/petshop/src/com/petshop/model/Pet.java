@@ -20,5 +20,4 @@ public class Pet {
     public void limpar(){
         this.limpo = true;
     }
-
 }
