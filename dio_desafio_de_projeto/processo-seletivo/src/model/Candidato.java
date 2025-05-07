@@ -8,6 +8,7 @@ import java.util.concurrent.ThreadLocalRandom;
 
 public class Candidato {
     public static void main(String[] args) {
+
         String[] candidatos = {"FELIPE", "MARCIA", "JULIA", "PAULO", "AUGUSTO", "MONICA", "FABRICIO", "MIRELA", "DANIELA", "JORGE"};
 
         System.out.println("-----CANDIDATOS INSCRITOS-----");
