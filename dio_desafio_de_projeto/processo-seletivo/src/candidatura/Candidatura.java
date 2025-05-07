@@ -6,6 +6,7 @@ import java.util.concurrent.ThreadLocalRandom;
 
 public class Candidatura {
     public static void main(String[] args) {
+
         String[] candidatos = {"FELIPE", "MARCIA", "JULIA", "PAULO", "AUGUSTO", "MONICA", "FABRICIO", "MIRELA", "DANIELA", "JORGE"};
         for (String candidato : candidatos){
             entrandoEmContato(candidato);
