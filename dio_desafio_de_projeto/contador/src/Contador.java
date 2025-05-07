@@ -29,4 +29,3 @@ public class Contador {
     }
 }
 
-class ParametrosInvalidosException extends Exception{}
