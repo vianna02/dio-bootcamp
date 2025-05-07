@@ -1,6 +1,7 @@
 package com.petshop.model;
 
 public class Pet {
+
     final String nome;
     private boolean limpo;
 
