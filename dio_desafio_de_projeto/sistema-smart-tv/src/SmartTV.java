@@ -1,4 +1,5 @@
 public class SmartTV {
+
     // Atributos
     boolean ligada = false;
     int canal = 1;
