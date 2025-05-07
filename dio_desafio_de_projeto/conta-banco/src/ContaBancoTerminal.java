@@ -1,4 +1,4 @@
-// Executar pelo terminal passando os parâmetros
+// Executar pelo terminal passando os parâmetros.
 public class ContaBancoTerminal {
     public static void main(String[] args) {
         int numeroConta = Integer.valueOf(args[0]);
